@@ -14,8 +14,6 @@ IMPLEMENTATION - 1
 ▪	Programming Language – Python
 ▪	Defining and Training Model – TensorFlow Keras
 
-Epoch of training datasets : ![image](https://github.com/user-attachments/assets/29990bfb-705c-452a-ba91-5438dc5da471)
-
 Accuracy and Validation of Training :
 ![image](https://github.com/user-attachments/assets/89635f4d-bd85-48da-a8ee-de9ed0d7ff9d)
 
